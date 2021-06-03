@@ -1,1 +1,58 @@
 
+{
+
+	"wallpapers": [
+
+		{
+
+			"author": "Pexels",
+
+			"url": "https://i.imgur.com/bp6Z5Gu.jpg",
+
+			"name": "Chritsmas 1",
+                        
+                        "thumbnail": "https://i.imgur.com/bp6Z5Gu.jpg?h=350&auto=compress&cs=tinysrgb"
+
+			
+
+		},
+
+		{
+
+			"author": "Pexels",
+
+			"url": "https://i.imgur.com/CXlt5mL.jpg",
+
+			"name": "Chritsmas 2",
+
+			"thumbnail": "https://i.imgur.com/CXlt5mL.jpg?h=350&auto=compress&cs=tinysrgb"
+
+		},
+
+		{
+
+			"author": "Pexels",
+
+			"url": "https://i.imgur.com/nfLJrqM.jpg",
+
+			"name": "chritsmas 3",
+
+			"thumbnail": "https://i.imgur.com/nfLJrqM.jpg?h=350&auto=compress&cs=tinysrgb"
+
+		},
+
+		{
+
+			"author": "Pexels",
+
+			"url": "https://i.imgur.com/oBq3Bs7.jpg",
+
+			"name": "Chritsmas 4",
+
+			"thumbnail": "https://i.imgur.com/oBq3Bs7.jpg?h=350&auto=compress&cs=tinysrgb"
+
+		}
+
+	]
+
+}
